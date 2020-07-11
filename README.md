@@ -1,3 +1,1 @@
-# Petits_annonces
-# Petits_annonces
-# Petits_annonces
+Développement d’une application de vente entre particuliers en utilisant le protocole TCP pour la communication Serveur/Client et le protocole UDP pour la communication Client/Client en utilisant le langage Java.
